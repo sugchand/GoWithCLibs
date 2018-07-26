@@ -1,0 +1,1 @@
+int isPaliandrome(char *a);
